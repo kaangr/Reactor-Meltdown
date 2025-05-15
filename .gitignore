@@ -1,0 +1,26 @@
+# Compiled Go binaries
+main
+main.exe
+reactor_meltdown
+reactor_meltdown.exe
+*.out
+
+# Go Module vendor directory (if you ever decide to vendor)
+vendor/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files (if you add any specific logging to files)
+*.log
+
+# Environment variables file (if you ever use one)
+.env
